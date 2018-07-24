@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Willkommen!\n\n\nWelcome to the course website for Programming Practices for Research in Economics at the University of Zurich.\n\n\nImportant Information\n\n\n\n\n\nWe don't anticipate to deviate from the \nSchedule\n too much - follow the \nAnnouncements\n page for updates.\n\n\n\n\nSummary\n\n\n\n\nDates: Daily from August 27, 2018 until September 19, 2018 (excluding weekends)\n\n\nMorning Session: 09:30-12:30\n\n\nAfternoon Session: 14:00-17:00\n\n\nLocation: See \nSchedule\n\n\nContact: programming@econ.uzh.ch\n\n\n\n\n\n\nSoftware Installation Guide\n\n\nYou will need to install the necessary software on to your laptop to bring to the class each day so you can code along with us.\n\n\n\n\nThe most recent version of the installation guide is \nhere\n, but it may have evolved substantially since the course ran.\n\n\n\n\n\n\nTip\n\n\nPlease try and install all the software before the course begins.\nIf you are struggling we are able to help - but we expect you have tried to work through the guide yourself.\n\n\n\n\nWhen: YOUR_TIME\n\n\nWhere: YOUR_LOCATION\n\n\n\n\n\n\nSlack Chat \n\n\nThroughout the course we will post useful tidbits of information, and answer questions that are slightly off topic in a web-chat environment called Slack.\n\n\nClick \nhere\n, or on the icon above, to be redirected to the Slack login page for our course.", 
+            "text": "Willkommen!\n\n\nWelcome to the course website for Programming Practices for Research in Economics at the University of Zurich.\n\n\nImportant Information\n\n\n\n\n\nWe don't anticipate to deviate from the \nSchedule\n too much - follow the \nAnnouncements\n page for updates.\n\n\n\n\nSummary\n\n\n\n\nDates: Daily from August 27, 2018 until September 19, 2018 (excluding weekends)\n\n\nMorning Session: 09:00-12:00\n\n\nAfternoon Session: 13:00-16:00\n\n\nLocation: See \nSchedule\n\n\nContact: programming@econ.uzh.ch\n\n\n\n\n\n\nSoftware Installation Guide\n\n\nYou will need to install the necessary software on to your laptop to bring to the class each day so you can code along with us.\n\n\n\n\nThe most recent version of the installation guide is \nhere\n, but it may have evolved substantially since the course ran.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSlack Chat \n\n\nThroughout the course we will post useful tidbits of information, and answer questions that are slightly off topic in a web-chat environment called Slack.\n\n\nClick \nhere\n, or on the icon above, to be redirected to the Slack login page for our course.", 
             "title": "Course Home Page"
         }, 
         {
@@ -12,12 +12,12 @@
         }, 
         {
             "location": "/#important-information", 
-            "text": "We don't anticipate to deviate from the  Schedule  too much - follow the  Announcements  page for updates.   Summary   Dates: Daily from August 27, 2018 until September 19, 2018 (excluding weekends)  Morning Session: 09:30-12:30  Afternoon Session: 14:00-17:00  Location: See  Schedule  Contact: programming@econ.uzh.ch", 
+            "text": "We don't anticipate to deviate from the  Schedule  too much - follow the  Announcements  page for updates.   Summary   Dates: Daily from August 27, 2018 until September 19, 2018 (excluding weekends)  Morning Session: 09:00-12:00  Afternoon Session: 13:00-16:00  Location: See  Schedule  Contact: programming@econ.uzh.ch", 
             "title": "Important Information"
         }, 
         {
             "location": "/#software-installation-guide", 
-            "text": "You will need to install the necessary software on to your laptop to bring to the class each day so you can code along with us.   The most recent version of the installation guide is  here , but it may have evolved substantially since the course ran.    Tip  Please try and install all the software before the course begins.\nIf you are struggling we are able to help - but we expect you have tried to work through the guide yourself.   When: YOUR_TIME  Where: YOUR_LOCATION", 
+            "text": "You will need to install the necessary software on to your laptop to bring to the class each day so you can code along with us.   The most recent version of the installation guide is  here , but it may have evolved substantially since the course ran.", 
             "title": "Software Installation Guide"
         }, 
         {
@@ -37,12 +37,12 @@
         }, 
         {
             "location": "/schedule/", 
-            "text": "Class Schedule\n\n\n\n\nEssential Information\n\n\nProgramming Practices for Research in Economics begins on START_DATE at START_TIME am and runs Monday to Friday until END_DATE.\nEach day is divided into two sessions:\n\n\n\n\nMorning Session: 09:30-12:30\n\n\nAfternoon Session: 14:00-17:00\n\n\n\n\nThe seminar room in which the class takes place varies day-by-day. So we don't all get lost, here are the addresses:\n\n\n\n\nSOME ADDRESS\n, denoted  YOUR_ABBREVATION\n\n!-- * \nRaemistrasse 59\n, denoted as RAA\n\n\nSchoenberggasse 1\n, denoted as SOF --\n\n\n\n\nThe topic schedule for each day can be found below.\n\n\n\n\n\n\n\nSchedule\n\n\nThe daily schedule will be posted soon.", 
+            "text": "Class Schedule\n\n\n\n\n\nThe topic schedule for each day can be found below.\n\n\n\n\n\nSocial Event\n\n\nWe will go for drinks on Friday, August 31, 2018, at 17:00. \nLocation: TBA\n\n\n\n\nSchedule\n\n\nThe daily schedule will be posted soon.", 
             "title": "Schedule"
         }, 
         {
             "location": "/schedule/#class-schedule", 
-            "text": "Essential Information  Programming Practices for Research in Economics begins on START_DATE at START_TIME am and runs Monday to Friday until END_DATE.\nEach day is divided into two sessions:   Morning Session: 09:30-12:30  Afternoon Session: 14:00-17:00   The seminar room in which the class takes place varies day-by-day. So we don't all get lost, here are the addresses:   SOME ADDRESS , denoted  YOUR_ABBREVATION !-- *  Raemistrasse 59 , denoted as RAA  Schoenberggasse 1 , denoted as SOF --   The topic schedule for each day can be found below.", 
+            "text": "The topic schedule for each day can be found below.   Social Event  We will go for drinks on Friday, August 31, 2018, at 17:00.  Location: TBA", 
             "title": "Class Schedule"
         }, 
         {
@@ -67,27 +67,27 @@
         }, 
         {
             "location": "/about/", 
-            "text": "About Us\n\n\nThe course is run by five PhD Students in the Department of Economics and the team leader of the Deparment's IT engineering group.\n\n\nMost of the structure and contents of this course has been developed by the previous instructor team Lachlaan Deer, Adrian Etter, Julian Langer, and Max Winkler, to whom were are greatly indebted.\nSee the previous version of this course \nhere\n.\n\n\nUlrich Bergmann\n\n\nUlrich\n is a 4th year Doctoral Candidate in the Department of Economics. His research interests lie in experimental economics and behavioural economics.\n\n\nUrlich leads the following modules:\n\n\n\n\n?\n\n\n\n\nUrsina Schaede\n\n\nUrsina\n is a 3rd year Doctoral Candidate in the Department of Economics. Her research interests are in ?????.\n\n\nUrsina leads the following modules:\n\n\n\n\n?\n\n\n\n\nDora Simon\n\n\nDora\n is a 4th year Doctoral Candidate in the Department of Economics. Her research interests are International Trade and Environmental Economics.\n\n\nDora leads the R module.\n\n\nCarlo Zanella\n\n\nCarlo\n is a 4th year Doctoral Candidate in the Department of Economics. His research interests lie in macroeconomics, optimal taxation, and inequality.\n\n\nCarlo leads the Machine Learning module.\n\n\nChristian Z\u00fcnd\n\n\nChristian\n is a 4th year Doctoral Candidate in the Department of Economics. His research interests lie in ?????.\n\n\nChristian leads the Python module.", 
+            "text": "About Us\n\n\nThe course is run by five PhD Students in the Department of Economics with excellent support by the department's IT support team.\n\n\nMost of the structure and contents of this course has been developed by the previous team Lachlaan Deer, Adrian Etter, Julian Langer, and Max Winkler, to whom were are greatly indebted.\nSee the previous version of this course \nhere\n.\n\n\nUlrich Bergmann\n\n\nUlrich\n is a 4th year Doctoral Candidate in the Department of Economics. His research interests lie in experimental economics and behavioural economics.\n\n\nUrlich leads the following modules:\n\n\n\n\nIntroduction\n\n\nTerminal\n\n\nVersion Control (git)\n\n\nAutomatization\n\n\n\n\nUrsina Schaede\n\n\nUrsina\n is a 3rd year Doctoral Candidate in the Department of Economics. Her research interests are in ?????.\n\n\nUrsina leads the following modules:\n\n\n\n\nWebscraping with Python\n\n\nQGIS\n\n\n\n\nDora Simon\n\n\nDora\n is a 4th year Doctoral Candidate in the Department of Economics. Her research interests are International Trade and Environmental Economics.\n\n\nDora leads the R modules.\n\n\nCarlo Zanella\n\n\nCarlo\n is a 4th year Doctoral Candidate in the Department of Economics. His research interests lie in macroeconomics, optimal taxation, and inequality.\n\n\nCarlo leads the Machine Learning module.\n\n\nChristian Z\u00fcnd\n\n\nChristian\n is a 4th year Doctoral Candidate in the Department of Economics. His research interests lie in ?????.\n\n\nChristian leads the Python module.", 
             "title": "About the Instructors"
         }, 
         {
             "location": "/about/#about-us", 
-            "text": "The course is run by five PhD Students in the Department of Economics and the team leader of the Deparment's IT engineering group.  Most of the structure and contents of this course has been developed by the previous instructor team Lachlaan Deer, Adrian Etter, Julian Langer, and Max Winkler, to whom were are greatly indebted.\nSee the previous version of this course  here .", 
+            "text": "The course is run by five PhD Students in the Department of Economics with excellent support by the department's IT support team.  Most of the structure and contents of this course has been developed by the previous team Lachlaan Deer, Adrian Etter, Julian Langer, and Max Winkler, to whom were are greatly indebted.\nSee the previous version of this course  here .", 
             "title": "About Us"
         }, 
         {
             "location": "/about/#ulrich-bergmann", 
-            "text": "Ulrich  is a 4th year Doctoral Candidate in the Department of Economics. His research interests lie in experimental economics and behavioural economics.  Urlich leads the following modules:   ?", 
+            "text": "Ulrich  is a 4th year Doctoral Candidate in the Department of Economics. His research interests lie in experimental economics and behavioural economics.  Urlich leads the following modules:   Introduction  Terminal  Version Control (git)  Automatization", 
             "title": "Ulrich Bergmann"
         }, 
         {
             "location": "/about/#ursina-schaede", 
-            "text": "Ursina  is a 3rd year Doctoral Candidate in the Department of Economics. Her research interests are in ?????.  Ursina leads the following modules:   ?", 
+            "text": "Ursina  is a 3rd year Doctoral Candidate in the Department of Economics. Her research interests are in ?????.  Ursina leads the following modules:   Webscraping with Python  QGIS", 
             "title": "Ursina Schaede"
         }, 
         {
             "location": "/about/#dora-simon", 
-            "text": "Dora  is a 4th year Doctoral Candidate in the Department of Economics. Her research interests are International Trade and Environmental Economics.  Dora leads the R module.", 
+            "text": "Dora  is a 4th year Doctoral Candidate in the Department of Economics. Her research interests are International Trade and Environmental Economics.  Dora leads the R modules.", 
             "title": "Dora Simon"
         }, 
         {
