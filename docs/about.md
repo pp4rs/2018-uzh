@@ -18,7 +18,7 @@ Urlich leads the following modules:
 
 ### Ursina Schaede
 
-[Ursina](http://www.econ.uzh.ch/en/people/graduatestudents/bergmann.html) is a 3rd year Doctoral Candidate in the Department of Economics. Her research interests are in ?????.
+[Ursina](http://www.econ.uzh.ch/en/people/graduatestudents/schaede.html) is a 3rd year Doctoral Candidate in the Department of Economics. Her research interests are in ?????.
 
 Ursina leads the following modules:
 
