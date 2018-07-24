@@ -4,8 +4,9 @@
     Programming Practices for Research in Economics begins on START_DATE at START_TIME am and runs Monday to Friday until END_DATE.
     Each day is divided into two sessions:
 
-    * Morning - YOUR_TIME
-    * Afternoon - YOUR_TIME
+	* Morning Session: 09:30-12:30
+    * Afternoon Session: 14:00-17:00
+
 
     The seminar room in which the class takes place varies day-by-day. So we don't all get lost, here are the addresses:
 
@@ -15,8 +16,10 @@
 
     The topic schedule for each day can be found below.
 
+<!---
 !!! bug "Social Event"
     We will go for drinks on YOUR_SOCIAL_DAY at SOCIAL_TIME. *Location: TBA*
+-->
 
 ## Schedule
 

@@ -1,26 +1,20 @@
 # Willkommen!
 
-Welcome to the course website for Programming Practices for Research in Economics at the YOUR UNIVERSITY in YOUR SEMESTER.
+Welcome to the course website for Programming Practices for Research in Economics at the University of Zurich.
 
 
 ## Important Information
 
-A course syllabus is now available [here](assets/pp4rs-syllabus.pdf).
+<!--A course syllabus is now available [here](assets/pp4rs-syllabus.pdf).-->
 We don't anticipate to deviate from the [Schedule](./schedule) too much - follow the [Announcements](./announcements) page for updates.
 
 !!! summary
 
-    * Dates: Daily from START until FINISH (excluding weekends)
-    * Morning Session: YOUR SCHEDULE
-    * Afternoon Session: YOUR SCHEDULE
+    * Dates: Daily from August 27, 2018 until September 19, 2018 (excluding weekends)
+    * Morning Session: 09:30-12:30
+    * Afternoon Session: 14:00-17:00
     * Location: See [Schedule](./schedule)
     * Contact: programming@econ.uzh.ch
-
-## [Pre-Course Survey](YOUR LINK)
-
-Please fill out the pre-course survey before the course begins. You can find it [here](YOUR LINK)
-
-
 
 ## Software Installation Guide
 

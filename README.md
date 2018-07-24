@@ -2,10 +2,10 @@
 
 ## Meta-Information
 
-*   Module Maintainer: YOURNAME (`YOUR_GH_NAME`)
+*   Module Maintainer: Carlo Zanella (@carlozanella)
 *   Course: [Programming Practices for Research in Economics](https://pp4rs.github.io)
-*   Institute: YOUR DEPARTMENT
-*   Current Version: [YOUR edition](https://pp4rs.github.io/YOUR_REPO)
+*   Institute: Department of Economics, Uni Zurich
+*   Current Version: [Fall 2018 edition](https://pp4rs.github.io/2018-uzh)
 
 Alternatively, email us at: programming 'AT' econ 'DOT' uzh 'DOT' ch
 
