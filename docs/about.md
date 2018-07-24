@@ -1,8 +1,8 @@
 # About Us
 
-The course is run by five PhD Students in the Department of Economics and the team leader of the Deparment's IT engineering group.
+The course is run by five PhD Students in the Department of Economics with excellent support by the department's IT support team.
 
-Most of the structure and contents of this course has been developed by the previous instructor team Lachlaan Deer, Adrian Etter, Julian Langer, and Max Winkler, to whom were are greatly indebted.
+Most of the structure and contents of this course has been developed by the previous team Lachlaan Deer, Adrian Etter, Julian Langer, and Max Winkler, to whom were are greatly indebted.
 See the previous version of this course [here](https://pp4rs.github.io/2017-uzh/).
 
 ### Ulrich Bergmann
@@ -11,7 +11,10 @@ See the previous version of this course [here](https://pp4rs.github.io/2017-uzh/
 
 Urlich leads the following modules:
 
-* ?
+* Introduction
+* Terminal
+* Version Control (git)
+* Automatization
 
 ### Ursina Schaede
 
@@ -19,12 +22,13 @@ Urlich leads the following modules:
 
 Ursina leads the following modules:
 
-* ?
+* Webscraping with Python
+* QGIS
 
 ### Dora Simon
 [Dora](http://www.econ.uzh.ch/en/people/graduatestudents/simon.html) is a 4th year Doctoral Candidate in the Department of Economics. Her research interests are International Trade and Environmental Economics.
 
-Dora leads the R module.
+Dora leads the R modules.
 
 ### Carlo Zanella
 [Carlo](http://www.econ.uzh.ch/en/people/graduatestudents/zanella.html) is a 4th year Doctoral Candidate in the Department of Economics. His research interests lie in macroeconomics, optimal taxation, and inequality.

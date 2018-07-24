@@ -11,8 +11,8 @@ We don't anticipate to deviate from the [Schedule](./schedule) too much - follow
 !!! summary
 
     * Dates: Daily from August 27, 2018 until September 19, 2018 (excluding weekends)
-    * Morning Session: 09:30-12:30
-    * Afternoon Session: 14:00-17:00
+    * Morning Session: 09:00-12:00
+    * Afternoon Session: 13:00-16:00
     * Location: See [Schedule](./schedule)
     * Contact: programming@econ.uzh.ch
 
@@ -23,12 +23,12 @@ You will need to install the necessary software on to your laptop to bring to th
 *   The most recent version of the installation guide is [here](https://pp4rs.github.io/installation-guide/), but it may have evolved substantially since the course ran.
 
 
-!!! tip
-    Please try and install all the software before the course begins.
-    If you are struggling we are able to help - but we expect you have tried to work through the guide yourself.
+<!-- !!! tip -->
+<!--     Please try and install all the software before the course begins. -->
+<!--     If you are struggling we are able to help - but we expect you have tried to work through the guide yourself. -->
 
-    * When: YOUR_TIME
-    * Where: YOUR_LOCATION
+<!--     * When: YOUR_TIME -->
+<!--     * Where: YOUR_LOCATION -->
 
 ## Slack Chat [<img src="https://maxcdn.icons8.com/Share/icon/Logos//slack1600.png" height="30" />](https://pp4rs.slack.com/)
 

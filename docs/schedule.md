@@ -1,11 +1,12 @@
 # Class Schedule
 
+<!--
 !!! summary "Essential Information"
-    Programming Practices for Research in Economics begins on START_DATE at START_TIME am and runs Monday to Friday until END_DATE.
+    Programming Practices for Research in Economics begins on August 27, 2018 at 09:00 am and runs Monday to Friday until September 19, 2018.
     Each day is divided into two sessions:
 
-	* Morning Session: 09:30-12:30
-    * Afternoon Session: 14:00-17:00
+	* Morning Session: 09:00-12:00
+    * Afternoon Session: 13:00-16:00
 
 
     The seminar room in which the class takes place varies day-by-day. So we don't all get lost, here are the addresses:
@@ -16,10 +17,8 @@
 
     The topic schedule for each day can be found below.
 
-<!---
 !!! bug "Social Event"
-    We will go for drinks on YOUR_SOCIAL_DAY at SOCIAL_TIME. *Location: TBA*
--->
+    We will go for drinks on Friday, August 31, 2018, at 17:00. *Location: TBA*
 
 ## Schedule
 
