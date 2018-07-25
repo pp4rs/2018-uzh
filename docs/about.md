@@ -18,7 +18,7 @@ Urlich leads the following modules:
 
 ### Ursina Schaede
 
-[Ursina](http://www.econ.uzh.ch/en/people/graduatestudents/schaede.html) is a 3rd year Doctoral Candidate in the Department of Economics. Her research interests are in ?????.
+[Ursina](http://www.econ.uzh.ch/en/people/graduatestudents/schaede.html) is a 3rd year Doctoral Candidate in the Department of Economics. Her research interests are applied microeconomics, with a focus on education and gender.
 
 Ursina leads the following modules:
 
@@ -36,9 +36,9 @@ Dora leads the R modules.
 Carlo leads the Machine Learning module.
 
 ### Christian Zünd
-[Christian](http://www.econ.uzh.ch/en/people/graduatestudents/zuend.html) is a 4th year Doctoral Candidate in the Department of Economics. His research interests lie in ?????.
+[Christian](http://www.econ.uzh.ch/en/people/graduatestudents/zuend.html) is a 5th year Doctoral Candidate in the Department of Economics. His research interests lie in applied microeconomics, experimental economics and behavioral genetics.
 
-Christian leads the Python module.
+Christian leads the basic Python module.
 
 
 
