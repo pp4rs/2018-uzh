@@ -1,8 +1,8 @@
 # Course Material
 
-## [GitHub repository](YOUR_LINK)
+## GitHub Repository
 
-All our materials are located in a GitHub repository, located [here](YOUR_LINK).
+All our materials will be located in a GitHub repository. You will find the link here in due time.
 
 <!-- UNTIL YOU POST STUFF, HAVE A SCHEDULE LIKE BELOW -->
 
