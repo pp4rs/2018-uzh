@@ -20,19 +20,89 @@
 !!! bug "Social Event"
     We will go for drinks on Friday, August 31, 2018, at 17:00. *Location: TBA*
 
-## Schedule
+## Preliminary Schedule
 
-The daily schedule will be posted soon.
+Note that this schedule is preliminary and may be subject to change until the course begins.
 
-<!-- ### Week 1
-
-|           | Monday       | Tuesday         | Wednesday       | Thursday     | Friday       |
-|:----------|:-------------|:----------------|:----------------|:-------------|:-------------|
-| Morning   | Introduction | Version Control | Version Control | Basic Python | Basic Python |
-| Afternoon | Terminal     | Version Control | Version Control | Basic Python | Basic Python |
-| *Room*    | *RAK-E-6*    | *RAK-E-6*       | *RAK-E-6*       | *SOF-E-17*   | *SOF-E-07*   |
+### Week 1
 
 
+<table>
+<thead>
+<tr>
+<th></th><th>Monday</th><th>Tuesday</th><th>Wednesday</th><th>Thursday</th><th>Friday</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Morning<br>09:00-12:00</td><td><em>Introduction</em></td><td><em>Version Control</em></td><td><em>Python: Basics</em></td><td><em>Python: Numpy</em></td><td><em>Python: Webscraping: Basics</em></td>
+</tr>
+<tr class="instructor">
+<td><td>Uli</td><td>Uli</td><td>Christian</td><td>Christian</td><td>Christian</td>
+<tr/>
+<tr>
+<td>Afternoon<br>13:00-16:00</td><td><em>Terminal</em></td><td><em>Version Control</em></td><td><em>Python: Basics</em></td><td><em>Python: Pandas</em></td><td><em>Python: Webscraping: Dynamc</em></td>
+</tr>
+<tr class="instructor">
+<td><td>Uli</td><td>Uli</td><td>Christian</td><td>Christian</td><td>Ursina</td>
+<tr/>
+</tbody>
+</table>
+
+### Week 2
+<table>
+<thead>
+<tr>
+<th></th><th>Monday</th><th>Tuesday</th><th>Wednesday</th><th>Thursday</th><th>Friday</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Morning<br>09:00-12:00</td><td><em>Python: Webscraping: Static</em></td><td><em>GIS: Arcpy (Python)</em></td><td><em>Python Project</em></td><td><em>R: Basics</em></td><td><em>R: Advanced Topics</em></td>
+</tr>
+<tr class="instructor">
+<td><td>Ursina</td><td>Ursina</td><td>Uli+Christian</td><td>Dora</td><td>Dora</td>
+<tr/>
+<tr>
+<td>Afternoon<br>13:00-16:00</td><td><em>GIS: Intro</em></td><td><em>Python Project</em></td><td><em>R: Basics</em></td><td><em>R: Advanced Topics</em></td><td><em>R: Advanced Topics</em></td>
+</tr>
+<tr class="instructor">
+<td><td>Ursina</td><td>Uli+Christian</td><td>Dora</td><td>Dora</td><td>Dora</td>
+<tr/>
+</tbody>
+</table>
+
+### Week 3
+<table>
+<thead>
+<tr>
+<th></th><th>Monday</th><th>Tuesday</th><th>Wednesday</th><th>Thursday</th><th>Friday</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Morning<br>09:00-12:00</td><td><em>R: Advanced Topics</em></td><td><em>Automatization</em></td><td><em>ML: Basics</em></td><td><em>ML: Classification</em></td><td><em>ML: Practice Assignment</em></td>
+</tr>
+<tr class="instructor">
+<td><td>Dora</td><td>Uli</td><td>Carlo</td><td>Carlo</td><td>Carlo</td>
+<tr/>
+<tr>
+<td>Afternoon<br>13:00-16:00</td><td><em>R: Advanced Topics</em></td><td><em>Automatization</em></td><td><em>ML:<br>Overfitting & Regularization</em></td><td><em>ML: Tree Methods</em></td><td><em>Your Projects</em></td>
+</tr>
+<tr class="instructor">
+<td><td>Dora</td><td>Uli</td><td>Carlo</td><td>Carlo</td><td></td>
+<tr/>
+</tbody>
+</table>
+
+<!-- |           | Monday       | Tuesday         | Wednesday       | Thursday     | Friday       | -->
+<!-- |:----------|:-------------|:----------------|:----------------|:-------------|:-------------| -->
+<!-- | Morning   | Introduction | Version Control | Version Control | Basic Python | Basic Python | -->
+<!-- | Afternoon | Terminal     | Version Control | Version Control | Basic Python | Basic Python | -->
+<!-- | *Room*    | *RAK-E-6*    | *RAK-E-6*       | *RAK-E-6*       | *SOF-E-17*   | *SOF-E-07*   | -->
+
+
+<!--
 ### Week 2
 
 |           | Monday        | Tuesday         | Wednesday | Thursday       | Friday      |

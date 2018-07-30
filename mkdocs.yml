@@ -11,3 +11,5 @@ theme: material
 markdown_extensions:
   - admonition
   - pymdownx.superfences
+extra_css:
+  - 'stylesheets/extra.css'
