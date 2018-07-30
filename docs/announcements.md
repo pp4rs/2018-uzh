@@ -9,7 +9,7 @@ Important announcements will be posted here to avoid our inboxes getting clogged
 
         programming "AT" econ.uzh.ch
 
-!!! info "Slack Channel: TBA"
+!!! info "Slack Channel"
     Closer to the start of the course, we will also announce a slack channel for more direct communication.
 
 <!-- SLACK LATER
