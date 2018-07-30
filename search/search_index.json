@@ -22,7 +22,7 @@
         },
         {
             "location": "/announcements/",
-            "text": "Announcements\n\n\nImportant announcements will be posted here to avoid our inboxes getting clogged up.\n\n\nCommunication\n\n\n\n\nQuestions?\n\n\nFor any questions write an email to\n\n\nprogramming \"AT\" econ.uzh.ch\n\n\n\n\n\n\n\nSlack Channel: TBA\n\n\nCloser to the start of the course, we will also announce a slack channel for more direct communication.",
+            "text": "Announcements\n\n\nImportant announcements will be posted here to avoid our inboxes getting clogged up.\n\n\nCommunication\n\n\n\n\nQuestions?\n\n\nFor any questions write an email to\n\n\nprogramming \"AT\" econ.uzh.ch\n\n\n\n\n\n\n\nSlack Channel\n\n\nCloser to the start of the course, we will also announce a slack channel for more direct communication.",
             "title": "Announcements"
         },
         {
@@ -32,7 +32,7 @@
         },
         {
             "location": "/announcements/#communication",
-            "text": "Questions?  For any questions write an email to  programming \"AT\" econ.uzh.ch    Slack Channel: TBA  Closer to the start of the course, we will also announce a slack channel for more direct communication.",
+            "text": "Questions?  For any questions write an email to  programming \"AT\" econ.uzh.ch    Slack Channel  Closer to the start of the course, we will also announce a slack channel for more direct communication.",
             "title": "Communication"
         },
         {
