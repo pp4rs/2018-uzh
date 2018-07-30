@@ -7,9 +7,9 @@ See the previous version of this course [here](https://pp4rs.github.io/2017-uzh/
 
 ### Ulrich Bergmann
 
-[Ulrich](http://www.econ.uzh.ch/en/people/graduatestudents/bergmann.html) is a 4th year Doctoral Candidate in the Department of Economics. His research interests lie in experimental economics and behavioural economics.
+[Uli](http://www.econ.uzh.ch/en/people/graduatestudents/bergmann.html) is a 4th year Doctoral Candidate in the Department of Economics. His research interests lie in behavioral, experimental and neuro-economics.
 
-Urlich leads the following modules:
+Uli leads the following modules:
 
 * Introduction
 * Terminal
@@ -23,10 +23,10 @@ Urlich leads the following modules:
 Ursina leads the following modules:
 
 * Webscraping with Python
-* QGIS
+* Sptial Data (ArcGIS)
 
 ### Dora Simon
-[Dora](http://www.econ.uzh.ch/en/people/graduatestudents/simon.html) is a 4th year Doctoral Candidate in the Department of Economics. Her research interests are International Trade and Environmental Economics.
+[Dora](http://www.econ.uzh.ch/en/people/graduatestudents/simon.html) is a 4th year Doctoral Candidate in the Department of Economics. Her research interests are international trade and environmental economics.
 
 Dora leads the R modules.
 
@@ -39,9 +39,3 @@ Carlo leads the Machine Learning module.
 [Christian](http://www.econ.uzh.ch/en/people/graduatestudents/zuend.html) is a 5th year Doctoral Candidate in the Department of Economics. His research interests lie in applied microeconomics, experimental economics and behavioral genetics.
 
 Christian leads the basic Python module.
-
-
-
-
-
-
