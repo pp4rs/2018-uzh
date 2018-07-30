@@ -1,5 +1,6 @@
-em {
-    font-weight: bold
+table em {
+    font-weight: bold;
+    font-style:normal;
 }
 
 .instructor td {
