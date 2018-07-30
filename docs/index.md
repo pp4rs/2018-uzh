@@ -5,7 +5,7 @@ Welcome to the course website for Programming Practices for Research in Economic
 
 ## Important Information
 
-<!--A course syllabus is now available [here](assets/pp4rs-syllabus.pdf).-->
+A preliminary syllabus is now available [here](assets/pp4rs-syllabus.pdf).
 We don't anticipate to deviate from the [Schedule](./schedule) too much - follow the [Announcements](./announcements) page for updates.
 
 !!! summary
@@ -20,7 +20,12 @@ We don't anticipate to deviate from the [Schedule](./schedule) too much - follow
 
 You will need to install the necessary software on to your laptop to bring to the class each day so you can code along with us.
 
-*   The most recent version of the installation guide is [here](https://pp4rs.github.io/installation-guide/), but it may have evolved substantially since the course ran.
+!!! info
+
+    We will publish it here by August, 15th.
+
+<!--
+*   The most recent version of the installation guide is [here](https://pp4rs.github.io/installation-guide/), but it may have evolved substantially since the course ran. -->
 
 
 <!-- !!! tip -->
@@ -30,8 +35,9 @@ You will need to install the necessary software on to your laptop to bring to th
 <!--     * When: YOUR_TIME -->
 <!--     * Where: YOUR_LOCATION -->
 
+<!--
 ## Slack Chat [<img src="https://maxcdn.icons8.com/Share/icon/Logos//slack1600.png" height="30" />](https://pp4rs.slack.com/)
 
 Throughout the course we will post useful tidbits of information, and answer questions that are slightly off topic in a web-chat environment called Slack.
 
-Click [here](https://pp4rs.slack.com/), or on the icon above, to be redirected to the Slack login page for our course.
+Click [here](https://pp4rs.slack.com/), or on the icon above, to be redirected to the Slack login page for our course. -->
