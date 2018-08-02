@@ -15,10 +15,7 @@
     <!-- * [Raemistrasse 59](https://www.openstreetmap.org/way/27327898), denoted as RAA
     * [Schoenberggasse 1](https://www.openstreetmap.org/way/33806996), denoted as SOF -->
 
-    The topic schedule for each day can be found below.
 
-!!! bug "Social Event"
-    We will go for drinks on Friday, August 31, 2018, at 17:00. *Location: TBA*
 
 ## Preliminary Schedule
 
@@ -48,6 +45,9 @@ Note that this schedule is preliminary and may be subject to change until the co
 <tr/>
 </tbody>
 </table>
+
+!!! bug "Social Event"
+    We will go for drinks on Friday, August 31, 2018 after the afternoon session. *Location: TBA*
 
 ### Week 2
 <table>
