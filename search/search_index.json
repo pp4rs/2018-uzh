@@ -37,12 +37,12 @@
         },
         {
             "location": "/schedule/",
-            "text": "Class Schedule\n\n\n\n\n\nThe topic schedule for each day can be found below.\n\n\n\n\n\nSocial Event\n\n\nWe will go for drinks on Friday, August 31, 2018, at 17:00. \nLocation: TBA\n\n\n\n\nPreliminary Schedule\n\n\nNote that this schedule is preliminary and may be subject to change until the course begins.\n\n\nWeek 1\n\n\n\n\n\n\n\n\nMonday\nTuesday\nWednesday\nThursday\nFriday\n\n\n\n\n\n\n\n\n\n\nMorning\n09:00-12:00\nIntroduction\nVersion Control\nPython: Basics\nPython: Numpy\nPython: Webscraping: Basics\n\n\n\n\n\n\nUli\nUli\nChristian\nChristian\nChristian\n\n\n\n\n\n\nAfternoon\n13:00-16:00\nTerminal\nVersion Control\nPython: Basics\nPython: Pandas\nPython: Webscraping: Dynamic\n\n\n\n\n\n\nUli\nUli\nChristian\nChristian\nUrsina\n\n\n\n\n\n\n\n\n\nWeek 2\n\n\n\n\n\n\n\n\nMonday\nTuesday\nWednesday\nThursday\nFriday\n\n\n\n\n\n\n\n\n\n\nMorning\n09:00-12:00\nPython: Webscraping: Static\nGIS: Arcpy (Python)\nPython Project\nR: Basics\nR: Advanced Topics\n\n\n\n\n\n\nUrsina\nUrsina\nUli+Christian\nDora\nDora\n\n\n\n\n\n\nAfternoon\n13:00-16:00\nGIS: Intro\nPython Project\nR: Basics\nR: Advanced Topics\nR: Advanced Topics\n\n\n\n\n\n\nUrsina\nUli+Christian\nDora\nDora\nDora\n\n\n\n\n\n\n\n\nWeek 3\n\n\n\n\n\n\n\n\nMonday\nTuesday\nWednesday\nThursday\nFriday\n\n\n\n\n\n\n\n\n\n\nMorning\n09:00-12:00\nR: Advanced Topics\nAutomatization\nML: Basics\nML: Classification\nML: Practice Assignment\n\n\n\n\n\n\nDora\nUli\nCarlo\nCarlo\nCarlo\n\n\n\n\n\n\nAfternoon\n13:00-16:00\nR: Advanced Topics\nAutomatization\nML:\nOverfitting & Regularization\nML: Tree Methods\nYour Projects\n\n\n\n\n\n\nDora\nUli\nCarlo\nCarlo",
+            "text": "Class Schedule\n\n\n\n\n\nPreliminary Schedule\n\n\nNote that this schedule is preliminary and may be subject to change until the course begins.\n\n\nWeek 1\n\n\n\n\n\n\n\n\nMonday\nTuesday\nWednesday\nThursday\nFriday\n\n\n\n\n\n\n\n\n\n\nMorning\n09:00-12:00\nIntroduction\nVersion Control\nPython: Basics\nPython: Numpy\nPython: Webscraping: Basics\n\n\n\n\n\n\nUli\nUli\nChristian\nChristian\nChristian\n\n\n\n\n\n\nAfternoon\n13:00-16:00\nTerminal\nVersion Control\nPython: Basics\nPython: Pandas\nPython: Webscraping: Dynamic\n\n\n\n\n\n\nUli\nUli\nChristian\nChristian\nUrsina\n\n\n\n\n\n\n\n\n\n\n\nSocial Event\n\n\nWe will go for drinks on Friday, August 31, 2018 after the afternoon session. \nLocation: TBA\n\n\n\n\nWeek 2\n\n\n\n\n\n\n\n\nMonday\nTuesday\nWednesday\nThursday\nFriday\n\n\n\n\n\n\n\n\n\n\nMorning\n09:00-12:00\nPython: Webscraping: Static\nGIS: Arcpy (Python)\nPython Project\nR: Basics\nR: Advanced Topics\n\n\n\n\n\n\nUrsina\nUrsina\nUli+Christian\nDora\nDora\n\n\n\n\n\n\nAfternoon\n13:00-16:00\nGIS: Intro\nPython Project\nR: Basics\nR: Advanced Topics\nR: Advanced Topics\n\n\n\n\n\n\nUrsina\nUli+Christian\nDora\nDora\nDora\n\n\n\n\n\n\n\n\nWeek 3\n\n\n\n\n\n\n\n\nMonday\nTuesday\nWednesday\nThursday\nFriday\n\n\n\n\n\n\n\n\n\n\nMorning\n09:00-12:00\nR: Advanced Topics\nAutomatization\nML: Basics\nML: Classification\nML: Practice Assignment\n\n\n\n\n\n\nDora\nUli\nCarlo\nCarlo\nCarlo\n\n\n\n\n\n\nAfternoon\n13:00-16:00\nR: Advanced Topics\nAutomatization\nML:\nOverfitting & Regularization\nML: Tree Methods\nYour Projects\n\n\n\n\n\n\nDora\nUli\nCarlo\nCarlo",
             "title": "Schedule"
         },
         {
             "location": "/schedule/#class-schedule",
-            "text": "The topic schedule for each day can be found below.   Social Event  We will go for drinks on Friday, August 31, 2018, at 17:00.  Location: TBA",
+            "text": "",
             "title": "Class Schedule"
         },
         {
@@ -52,7 +52,7 @@
         },
         {
             "location": "/schedule/#week-1",
-            "text": "Monday Tuesday Wednesday Thursday Friday      Morning 09:00-12:00 Introduction Version Control Python: Basics Python: Numpy Python: Webscraping: Basics    Uli Uli Christian Christian Christian    Afternoon 13:00-16:00 Terminal Version Control Python: Basics Python: Pandas Python: Webscraping: Dynamic    Uli Uli Christian Christian Ursina",
+            "text": "Monday Tuesday Wednesday Thursday Friday      Morning 09:00-12:00 Introduction Version Control Python: Basics Python: Numpy Python: Webscraping: Basics    Uli Uli Christian Christian Christian    Afternoon 13:00-16:00 Terminal Version Control Python: Basics Python: Pandas Python: Webscraping: Dynamic    Uli Uli Christian Christian Ursina      Social Event  We will go for drinks on Friday, August 31, 2018 after the afternoon session.  Location: TBA",
             "title": "Week 1"
         },
         {
