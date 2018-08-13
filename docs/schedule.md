@@ -43,6 +43,9 @@ Note that this schedule is preliminary and may be subject to change until the co
 <tr class="instructor">
 <td><td>Uli</td><td>Uli</td><td>Christian</td><td>Christian</td><td>Ursina</td>
 <tr/>
+<tr>
+<td>Room</td><td>KOL-F-123</td><td>KOL-F-123</td><td>KOL-F-123</td><td>KOL-F-123</td><td>KOL-F-123</td>
+<tr/>
 </tbody>
 </table>
 
@@ -69,6 +72,9 @@ Note that this schedule is preliminary and may be subject to change until the co
 <tr class="instructor">
 <td><td>Ursina</td><td>Uli+Christian</td><td>Dora</td><td>Dora</td><td>Dora</td>
 <tr/>
+<tr>
+<td>Room</td><td>KOL-F-123</td><td>RAA-E-29</td><td>RAA-E-29</td><td>RAA-E-29</td><td>KOL-F-123</td>
+</tr>
 </tbody>
 </table>
 
@@ -91,6 +97,9 @@ Note that this schedule is preliminary and may be subject to change until the co
 </tr>
 <tr class="instructor">
 <td><td>Dora</td><td>Uli</td><td>Carlo</td><td>Carlo</td><td></td>
+<tr/>
+<tr>
+<td>Room</td><td>KOL-F-123</td><td>KOL-F-123</td><td>KOL-F-123</td><td>RAA-E-29</td><td>RAA-E-08</td>
 <tr/>
 </tbody>
 </table>
