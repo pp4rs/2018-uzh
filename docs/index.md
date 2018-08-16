@@ -22,7 +22,9 @@ You will need to install the necessary software on to your laptop to bring to th
 
 !!! info
 
-    We will publish it here by August, 15th.
+    Here is the link to the Installation Guide for 2018: [https://pp4rs.github.io/installation-guide/](https://pp4rs.github.io/installation-guide/).  
+    Please try and install all the software before the course begins.  
+    If you are struggling we are able to help - but we expect you have tried to work through the guide yourself.  
 
 <!--
 *   The most recent version of the installation guide is [here](https://pp4rs.github.io/installation-guide/), but it may have evolved substantially since the course ran. -->
