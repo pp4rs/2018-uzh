@@ -35,7 +35,7 @@ Note that this schedule is preliminary and may be subject to change until the co
 <td>Morning<br>09:00-12:00</td><td><em>Introduction</em></td><td><em>Version Control</em></td><td><em>Python: Basics</em></td><td><em>Python: Numpy</em></td><td><em>Python: Webscraping: Basics</em></td>
 </tr>
 <tr class="instructor">
-<td><td>Uli</td><td>Uli</td><td>Christian</td><td>Christian</td><td>Christian</td>
+<td><td>Uli</td><td>Uli</td><td>Christian</td><td>Christian</td><td>Ursina</td>
 <tr/>
 <tr>
 <td>Afternoon<br>13:00-16:00</td><td><em>Terminal</em></td><td><em>Version Control</em></td><td><em>Python: Basics</em></td><td><em>Python: Pandas</em></td><td><em>Python: Webscraping: Dynamic</em></td>
