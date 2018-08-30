@@ -2,7 +2,7 @@
 
 ## GitHub Repository
 
-All our materials will be located in a GitHub repository. You will find the link here in due time.
+All our materials are located in a GitHub repository. Click [here](https://github.com/pp4rs/2018-uzh-course-material) to access them.
 
 <!-- UNTIL YOU POST STUFF, HAVE A SCHEDULE LIKE BELOW -->
 
