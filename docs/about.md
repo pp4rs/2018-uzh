@@ -2,7 +2,7 @@
 
 The course is run by five PhD Students in the Department of Economics with excellent support by the department's IT support team.
 
-Most of the structure and contents of this course has been developed by the previous team Lachlaan Deer, Adrian Etter, Julian Langer, and Max Winkler, to whom were are greatly indebted.
+Most of the structure and contents of this course has been developed by the previous team Lachlan Deer, Adrian Etter, Julian Langer, and Max Winkler, to whom were are greatly indebted.
 See the previous version of this course [here](https://pp4rs.github.io/2017-uzh/).
 
 ### Ulrich Bergmann
@@ -23,7 +23,7 @@ Uli leads the following modules:
 Ursina leads the following modules:
 
 * Webscraping with Python
-* Sptial Data (ArcGIS)
+* Spatial Data (ArcGIS)
 
 ### Dora Simon
 [Dora](http://www.econ.uzh.ch/en/people/graduatestudents/simon.html) is a 4th year Doctoral Candidate in the Department of Economics. Her research interests are international trade and environmental economics.
