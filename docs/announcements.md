@@ -2,6 +2,11 @@
 
 Important announcements will be posted here to avoid our inboxes getting clogged up.
 
+!!! bug "Social Event"
+    We will go for drinks on Friday, August 31, 2018 after the afternoon session at
+    4 pm to BQM. First round of pitchers is on us.
+
+
 ## Communication
 
 !!! question "Questions?"

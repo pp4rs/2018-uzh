@@ -50,7 +50,8 @@ Note that this schedule is preliminary and may be subject to change until the co
 </table>
 
 !!! bug "Social Event"
-    We will go for drinks on Friday, August 31, 2018 after the afternoon session. *Location: TBA*
+    We will go for drinks on Friday, August 31, 2018 after the afternoon session at
+    4 pm to BQM. First round of pitchers is on us. 
 
 ### Week 2
 <table>
