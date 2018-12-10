@@ -29,7 +29,7 @@ You will need to install the necessary software on to your laptop to bring to th
 
 !!! info
 
-    Here is the link to the Installation Guide for 2018: [https://pp4rs.github.io/installation-guide/](https://pp4rs.github.io/installation-guide/).  
+    Here is the link to the Installation Guide for 2018: [https://pp4rs.github.io/2018-uzh-installation-guide/](https://pp4rs.github.io/2018-uzh-installation-guide/).  
     Please try and install all the software before the course begins.  
     If you are struggling we are able to help - but we expect you have tried to work through the guide yourself.  
 
